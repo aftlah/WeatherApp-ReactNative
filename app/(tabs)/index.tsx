@@ -170,7 +170,7 @@ export default function HomeScreen() {
                   </View>
                </View>
             </View>
-
+ 
             {/* Forecast for next days */}
             <View style={{ marginBottom: 15, marginTop: 8, width: '100%', display: 'flex', marginLeft: 45 }}>
                <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-start', marginBottom: 15 }}>
